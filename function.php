@@ -1,4 +1,4 @@
-//hide email address
+#-- hide email address --#
 function vendor_setup_wizard_styles(){
   ?>
   <style>
